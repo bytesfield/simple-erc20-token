@@ -1,0 +1,25 @@
+{
+  "name": "simple-erc20-token",
+  "version": "1.0.0",
+  "description": "This is a simple implementation of ERC-20 Token Standard Contract",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bytesfield/simple-erc20-token.git"
+  },
+  "keywords": [
+    "solidity"
+  ],
+  "author": "Abraham Udele <hello@abrahamudele.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bytesfield/simple-erc20-token/issues"
+  },
+  "homepage": "https://github.com/bytesfield/simple-erc20-token#readme"
+}
