@@ -28,6 +28,7 @@ coverage
 .env.test.local
 .env.production.local
 
+.secret
 
 # Dependency directory
 node_modules
