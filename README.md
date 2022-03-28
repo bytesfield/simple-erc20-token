@@ -1,6 +1,6 @@
 <!-- @format -->
 
-# Supply Chain Smart Contract
+# Simple ERC20 Token
 
 A Smart Contract for ERC-20 Implementation on Ethereum Blockchain.
 
